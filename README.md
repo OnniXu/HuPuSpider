@@ -5,4 +5,4 @@
 ##
 ##部分可视化图表截图##
 ![image]
-( HuPuSpider/Screenshots/FT2.jpeg )
+( https://github.com/OnniXu/HuPuSpider/blob/master/Screenshots/FT2.jpeg )
