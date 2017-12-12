@@ -4,7 +4,7 @@
 
 ###爬取数据的部分截图
 
-![Aaron Swartz]( https://github.com/OnniXu/HuPuSpider/blob/master/Screenshots/FT2.jpeg)
+![Aaron Swartz]( https://github.com/OnniXu/HuPuSpider/blob/master/Screenshots/FT2.jpeg)(https://github.com/OnniXu/HuPuSpider/blob/master/Screenshots/SHH.jpeg)
 
 
 
